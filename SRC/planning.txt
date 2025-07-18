@@ -1,0 +1,6 @@
+ai_generate.py -> gen ai response by giving prompt
+modules -> all module and our gemini API key
+urls -> for web page handling
+voice -> all listen and speak function by gTTS and pygame
+article -> all wikipedia api and requests for news and article
+main -> conenct them out in one take user message and give output
