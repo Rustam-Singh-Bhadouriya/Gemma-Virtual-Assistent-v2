@@ -1,6 +1,6 @@
 # Gemma-Virtual-Assistent-v2 🤖
 Gemma Virtual assistent v2
-## In custruction
+## In cunstruction
 
 ### Whats new 🆕 -
 - Making speech recognization and speak() function better
